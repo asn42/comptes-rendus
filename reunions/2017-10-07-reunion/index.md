@@ -63,14 +63,12 @@ Un certain nombre de conférences vont voir le jours, et certains nous proposent
 Outre la présence de 42 comme sponsor et par ses étudiants bénévoles pendant l’édition 2k17, nous avons pu faire la rencontre de certain acteurs :
 
 - Ecole [Aston](http://www.aston-ecole.com/) : Une école d’informatique en alternance, avec des programmes expert en sécurité numérique et administrateur système et réseau entre autres. Nous avons pu évoquer l’idée d’un ctf avec école mélangé et ont vraiment aimé le principe et pourrait aider à mettre en place ce projet.
-
 - Vade Secure : Analyse et dev sur  des application de sécurité. Se sont montré intéressé pour réaliser une conf à 42. Leur blog est plutôt sympa, [ça se passe ici](https://blog.vadesecure.com/fr/)
 
 
 #### PSES :
 
 - Rencontre avec Eureka Certification, et un de ses formateur et passionné en technologie blockchain. Pourrait proposer une conférence sur la daocratie basée sur ETH vers novembre.
-
 - Blackfield : Asso qui aide les projet indépendant a sécuriser leur mise en prod, des confs sont possibles sur différents thèmes.
 
 
