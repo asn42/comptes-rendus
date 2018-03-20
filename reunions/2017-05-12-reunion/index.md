@@ -49,17 +49,17 @@ Vous avez à tout moment la possibilité de proposer ou de demander un atelier /
 
 #### Prévu : 
 
-    - une conférence sur la cryptologie
-    - une initiation à la contribution à des projets de logiciels libres (trouver et patcher son premier bug)
-    - des conférencier intéressé pour faire des conférences a 42
+- une conférence sur la cryptologie
+- une initiation à la contribution à des projets de logiciels libres (trouver et patcher son premier bug)
+- des conférencier intéressé pour faire des conférences a 42
 
 
 #### Vos propositions :
 
-    - une initiation aux outils et méthodes de base pour les ctf
-    - un dépôt de doc
-    - (re)faire venir quelqu'un de la quadrature du net
-    - un test / démo sur le système "root is not dead"
+- une initiation aux outils et méthodes de base pour les ctf
+- un dépôt de doc
+- (re)faire venir quelqu'un de la quadrature du net
+- un test / démo sur le système "root is not dead"
 
 
 ### Réunions
