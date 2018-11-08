@@ -1,6 +1,6 @@
 +++
-Titre = "Réunion du 2018-11-03"
-descriptions = "Compte rendu de la réunion du 3 novembre 2018 de l'"
+title = "Réunion du 2018-11-03"
+description = "Compte rendu de la réunion du 3 novembre 2018 de l'"
 template = "page.html"
 date = 2018-11-03
 +++
